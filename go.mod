@@ -1,4 +1,4 @@
-module wallet-coin-sdk
+module github.com/yixin-1024/BRC20-goSDK
 
 go 1.17
 
